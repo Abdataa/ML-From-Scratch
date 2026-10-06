@@ -10,5 +10,5 @@ This README is currently a work in progress and will continue to evolve as I pro
 
 ⭐ If you find this repository helpful or think it may be helpful in the future,consider giving it a star. It helps others discover the repository and motivates me to continue sharing my learning journey.
 ## Books
-Aurélien Géron book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
-Mathematics for Machine Learning (MML)by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong, published by Cambridge University Press
+1.Aurélien Géron book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+2.Mathematics for Machine Learning (MML)by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong, published by Cambridge University Press
