@@ -1,0 +1,19 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment folders (if applicable)
+.env/
+venv/ 
+stuff/ 
+mealplans.jsonl
+mealplans.json
+## Datafolder
+data/
+
