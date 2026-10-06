@@ -1,6 +1,6 @@
 ## AI/ML Learning Journey
 
-*This repository documents my self-learning journey toward becoming an AI/ML Engineer. It captures my experiences, notes, projects, experiments, challenges, and   lessons learned throughout the journey.
+This repository documents my self-learning journey toward becoming an AI/ML Engineer. It captures my experiences, notes, projects, experiments, challenges, and   lessons learned throughout the journey.
 
 The field of AI and Machine Learning offers an overwhelming number of learning resources, courses, books, and tutorials. For many beginners,especially those who are ambitious and want to deeply understand the subject,deciding where to start can be challenging. Questions such as "Should I implement algorithms from scratch?", "Should I focus on libraries like Scikit-Learn?", or "How much mathematics do I need?" often create confusion.
 
