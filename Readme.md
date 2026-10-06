@@ -8,7 +8,7 @@ In this repository, I share my notes, experiments, projects, and lessons learned
 
 This README is currently a work in progress and will continue to evolve as I progress through my AI/ML journey.
 
-⭐ If you find this repository helpful or think it may be helpful in the future,consider giving it a star. It helps others discover the repository and motivates me to continue sharing my learning journey.*
+⭐ If you find this repository helpful or think it may be helpful in the future,consider giving it a star. It helps others discover the repository and motivates me to continue sharing my learning journey.
 ## Books
 1. Aurélien Géron book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.
 
